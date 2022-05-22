@@ -48,19 +48,20 @@ to use the following data sets;
 My project analysed and checked the following to
 come up with concrete recommendations;
 
-  1.Checking the most produced genres.
+     1.Checking the most produced genres.
 
-  2.checking if the most produced genres are the most profitable genres.
+     2.checking if the most produced genres are the most profitable genres.
 
-  3.checking if more production bugdet translates to higher profit
+     3.checking if more production bugdet translates to higher profit
 
-  4.Checking if the runtime can affect the profit.
+     4.Checking if the runtime can affect the profit.
 
-  5 Checking whether movie rating affect profit.
+     5 .Checking whether movie rating affect profit.
 
-  6.Checking if time of the year movie is produced affects profit.
+     6.Checking if time of the year movie is produced affects profit.
 
 # Conclusion.
+
    *Time in the year movie is produced is important in relation to the profit.
 
    *Movie rating is an important factor to be considered(depending on the audience ofcourse) to make more returns.
