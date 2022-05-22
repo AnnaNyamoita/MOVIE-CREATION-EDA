@@ -1,5 +1,3 @@
-# MOVIE-CREATION-EDA
-
 # MOVIES CREATION EDA FOR MICROSOFT
 
 
@@ -27,11 +25,14 @@
 
 Microsoft sees all the big companies creating original video content and they want to get in on the fun.
  They have decided to create a new movie studio, but they don’t know anything about creating movies. 
+ 
 We are charged with exploring what types of films are currently doing the best at the box office and then
  translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what
 type of films to create.
 
+
 ![App Screenshot](https://static.toiimg.com/thumb/msid-59124127,width-800,height-600,resizemode-75,imgsize-45922,pt-32,y_pad-40/59124127.jpg)
+
 
 # Data and tools used in analysis
 Data sets for analysis was provided and and I decided 
@@ -39,7 +40,7 @@ to use the following data sets;
 
        (i)tn.movie_budgets.csv
        (ii)tmdb.movies.csv
-       (iii)rt.reviews.tsv
+       (iii)rt.reviews_info.tsv
         (iv)bom.movie_gross.csv
 
 
